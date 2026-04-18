@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.vercel.ai_kickstart.twa",
+    "sha256_cert_fingerprints": ["55:7B:08:59:AD:E4:BB:05:75:7E:C9:FE:C9:32:C0:87:40:7E:EB:8C:D6:A4:37:4B:73:0F:1C:5D:CA:F4:66:F8"]
+  }
+}]
